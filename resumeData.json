@@ -61,35 +61,35 @@
 
         ],
         "skills": [{
-                "name": "ReactJs",
-                "level": "80%"
+                "name": "HTML & CSS",
+                "level": "100%"
             },
             {
                 "name": "JS/Jquery",
-                "level": "90%"
-            },
-            {
-                "name": "CSS",
-                "level": "90%"
+                "level": "100%"
             },
             {
                 "name": "Git",
-                "level": "90%"
+                "level": "75%"
             },
             {
-                "name": "Figma && Adobe XD",
-                "level": "90%"
+                "name": "ReactJs",
+                "level": "75%"
             },
             {
-                "name": "HTML5",
-                "level": "90%"
+                "name": "Python",
+                "level": "25%"
+            },
+            {
+                "name": "NodeJs",
+                "level": "25%"
             },
             {
                 "name": "Flutter",
-                "level": "80%"
+                "level": "75%"
             },
             {
-                "name": "MongoDB",
+                "name": "DevOps",
                 "level": "50%"
             }
         ]
@@ -106,12 +106,12 @@
     },
     "testimonials": {
         "testimonials": [{
-                "text": "You're noob.",
-                "user": "Random League of Legends player"
+                "text": "Lorem Ipsum.",
+                "user": "John Doe"
             },
             {
-                "text": "Hire Arbin to build me!",
-                "user": "Your Project"
+                "text": "Lorem Ipsum",
+                "user": "John Doe"
             }
         ]
     }
